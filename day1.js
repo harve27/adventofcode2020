@@ -1,4 +1,5 @@
 /**Attempt 1 */
+/**revised commit */
 
 var num = [/*...*/]; //see day1input.txt
 
