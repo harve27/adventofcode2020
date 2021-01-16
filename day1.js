@@ -1,3 +1,5 @@
+/**Attempt 1 */
+
 var num = [/*...*/]; //see day1input.txt
 
 for(var i=0; i < num.length; i++) { 
